@@ -1,0 +1,1 @@
+This is just a random file to test the git fecthc command. git fectch command will fetch all the remote branches to local where as git pull command will pull the changes from particular branch (master remote to master local).
